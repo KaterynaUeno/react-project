@@ -1,2 +1,2 @@
 # react-project
-A couple of siple projects using JavaScript and React.
+A couple of simple projects using JavaScript and React.
