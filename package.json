@@ -1,0 +1,21 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "format": "prettier --write \"src/**/*. {js, jsx}\"",
+    "lint": "eslint src/**/* .{js, jsx} --quiet"
+  },
+  "repository": "git+https://github.com/katerynaueno/react-project.git",
+  "keywords": [],
+  "author": "Kateryna Ueno <katerynaueno@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katerynaueno/react-project/issues"
+  },
+  "homepage": "https://github.com/katerynaueno/react-project#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
