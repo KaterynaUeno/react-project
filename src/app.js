@@ -23,4 +23,4 @@ const App = () => {
   );
 };
 
-ReactDOM.render(React.createElement(App), document.getElementById('base'));
+  ReactDOM.render(React.createElement(App), document.getElementById('base'));
